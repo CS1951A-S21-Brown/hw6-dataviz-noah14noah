@@ -1,0 +1,236 @@
+country_id,Name,pub,Genre
+533,Aruba,Electronic Arts,Action
+4,Afghanistan,Electronic Arts,Action
+24,Angola,Electronic Arts,Action
+660,Anguilla,Electronic Arts,Action
+248,Aland,Electronic Arts,Action
+8,Albania,Electronic Arts,Action
+20,Andorra,Electronic Arts,Action
+784,United Arab Emirates,Electronic Arts,Action
+32,Argentina,Electronic Arts,Action
+51,Armenia,Electronic Arts,Action
+16,American Samoa,Electronic Arts,Action
+10,Antarctica,Electronic Arts,Action
+260,French Southern and Antarctic Lands,Electronic Arts,Action
+28,Antigua and Barbuda,Electronic Arts,Action
+36,Australia,Electronic Arts,Action
+40,Austria,Nintendo,Action
+31,Azerbaijan,Electronic Arts,Action
+108,Burundi,Electronic Arts,Action
+56,Belgium,Nintendo,Action
+204,Benin,Electronic Arts,Action
+854,Burkina Faso,Electronic Arts,Action
+50,Bangladesh,Electronic Arts,Action
+100,Bulgaria,Nintendo,Action
+48,Bahrain,Electronic Arts,Action
+44,"Bahamas, The",Electronic Arts,Action
+70,Bosnia and Herzegovina,Electronic Arts,Action
+652,St-Barthélemy,Electronic Arts,Action
+112,Belarus,Electronic Arts,Action
+84,Belize,Electronic Arts,Action
+60,Bermuda,Electronic Arts,Action
+68,Bolivia,Electronic Arts,Action
+76,Brazil,Electronic Arts,Action
+52,Barbados,Electronic Arts,Action
+96,Brunei,Electronic Arts,Action
+64,Bhutan,Electronic Arts,Action
+72,Botswana,Electronic Arts,Action
+140,Central African Republic,Electronic Arts,Action
+124,Canada,Nintendo,Action
+756,Switzerland,Electronic Arts,Action
+152,Chile,Electronic Arts,Action
+156,China,Electronic Arts,Action
+384,Côte d'Ivoire,Electronic Arts,Action
+120,Cameroon,Electronic Arts,Action
+180,"Congo, Dem. Rep.",Electronic Arts,Action
+178,"Congo, Rep.",Electronic Arts,Action
+184,Cook Islands,Electronic Arts,Action
+170,Colombia,Electronic Arts,Action
+174,Comoros,Electronic Arts,Action
+132,Cape Verde,Electronic Arts,Action
+188,Costa Rica,Nintendo,Action
+192,Cuba,Nintendo,Action
+531,Curaçao,Electronic Arts,Action
+136,Cayman Islands,Electronic Arts,Action
+196,Cyprus,Electronic Arts,Action
+203,Czech Republic,Nintendo,Action
+276,Germany,Nintendo,Action
+262,Djibouti,Electronic Arts,Action
+212,Dominica,Electronic Arts,Action
+208,Denmark,Nintendo,Action
+214,Dominican Republic,Nintendo,Action
+12,Algeria,Electronic Arts,Action
+218,Ecuador,Electronic Arts,Action
+818,"Egypt, Arab Rep.",Electronic Arts,Action
+232,Eritrea,Electronic Arts,Action
+732,Western Sahara,Electronic Arts,Action
+724,Spain,Nintendo,Action
+233,Estonia,Nintendo,Action
+231,Ethiopia,Electronic Arts,Action
+246,Finland,Nintendo,Action
+242,Fiji,Electronic Arts,Action
+238,Falkland Islands,Electronic Arts,Action
+250,France,Nintendo,Action
+234,Faeroe Islands,Electronic Arts,Action
+583,"Micronesia, Federated States of",Electronic Arts,Action
+266,Gabon,Electronic Arts,Action
+826,United Kingdom,Electronic Arts,Action
+268,Georgia,Electronic Arts,Action
+831,Guernsey,Electronic Arts,Action
+288,Ghana,Electronic Arts,Action
+324,Guinea,Electronic Arts,Action
+270,"Gambia, The",Electronic Arts,Action
+624,Guinea-Bissau,Electronic Arts,Action
+226,Equatorial Guinea,Electronic Arts,Action
+300,Greece,Nintendo,Action
+308,Grenada,Electronic Arts,Action
+304,Greenland,Electronic Arts,Action
+320,Guatemala,Nintendo,Action
+316,Guam,Electronic Arts,Action
+328,Guyana,Electronic Arts,Action
+344,"Hong Kong SAR, China",Electronic Arts,Action
+334,Heard Island and McDonald Islands,Electronic Arts,Action
+340,Honduras,Nintendo,Action
+191,Croatia,Nintendo,Action
+332,Haiti,Nintendo,Action
+348,Hungary,Nintendo,Action
+360,Indonesia,Electronic Arts,Action
+833,Isle of Man,Electronic Arts,Action
+356,India,Electronic Arts,Action
+86,British Indian Ocean Territory,Electronic Arts,Action
+372,Ireland,Nintendo,Action
+364,"Iran, Islamic Rep.",Electronic Arts,Action
+368,Iraq,Electronic Arts,Action
+352,Iceland,Electronic Arts,Action
+376,Israel,Electronic Arts,Action
+380,Italy,Nintendo,Action
+388,Jamaica,Nintendo,Action
+832,Jersey,Electronic Arts,Action
+400,Jordan,Electronic Arts,Action
+392,Japan,Nintendo,Role-Playing
+398,Kazakhstan,Electronic Arts,Action
+404,Kenya,Electronic Arts,Action
+417,Kyrgyz Republic,Electronic Arts,Action
+116,Cambodia,Electronic Arts,Action
+296,Kiribati,Electronic Arts,Action
+659,St. Kitts and Nevis,Electronic Arts,Action
+410,"Korea, Rep.",Electronic Arts,Action
+414,Kuwait,Electronic Arts,Action
+418,Lao PDR,Electronic Arts,Action
+422,Lebanon,Electronic Arts,Action
+430,Liberia,Electronic Arts,Action
+434,Libya,Electronic Arts,Action
+662,St. Lucia,Electronic Arts,Action
+438,Liechtenstein,Electronic Arts,Action
+144,Sri Lanka,Electronic Arts,Action
+426,Lesotho,Electronic Arts,Action
+440,Lithuania,Nintendo,Action
+442,Luxembourg,Nintendo,Action
+428,Latvia,Nintendo,Action
+446,"Macao SAR, China",Electronic Arts,Action
+663,St. Martin (French part),Electronic Arts,Action
+504,Morocco,Electronic Arts,Action
+492,Monaco,Electronic Arts,Action
+498,Moldova,Electronic Arts,Action
+450,Madagascar,Electronic Arts,Action
+462,Maldives,Electronic Arts,Action
+484,Mexico,Nintendo,Action
+584,Marshall Islands,Electronic Arts,Action
+807,"Macedonia, FYR",Electronic Arts,Action
+466,Mali,Electronic Arts,Action
+470,Malta,Nintendo,Action
+104,Myanmar,Electronic Arts,Action
+499,Montenegro,Electronic Arts,Action
+496,Mongolia,Electronic Arts,Action
+580,Northern Mariana Islands,Electronic Arts,Action
+508,Mozambique,Electronic Arts,Action
+478,Mauritania,Electronic Arts,Action
+500,Montserrat,Electronic Arts,Action
+480,Mauritius,Electronic Arts,Action
+454,Malawi,Electronic Arts,Action
+458,Malaysia,Electronic Arts,Action
+516,Namibia,Electronic Arts,Action
+540,New Caledonia,Electronic Arts,Action
+562,Niger,Electronic Arts,Action
+574,Norfolk Island,Electronic Arts,Action
+566,Nigeria,Electronic Arts,Action
+558,Nicaragua,Nintendo,Action
+570,Niue,Electronic Arts,Action
+528,Netherlands,Nintendo,Action
+578,Norway,Electronic Arts,Action
+524,Nepal,Electronic Arts,Action
+520,Nauru,Electronic Arts,Action
+554,New Zealand,Electronic Arts,Action
+512,Oman,Electronic Arts,Action
+586,Pakistan,Electronic Arts,Action
+591,Panama,Electronic Arts,Action
+612,Pitcairn Islands,Electronic Arts,Action
+604,Peru,Electronic Arts,Action
+608,Philippines,Electronic Arts,Action
+585,Palau,Electronic Arts,Action
+598,Papua New Guinea,Electronic Arts,Action
+616,Poland,Nintendo,Action
+630,Puerto Rico,Electronic Arts,Action
+408,"Korea, Dem. Rep.",Electronic Arts,Action
+620,Portugal,Nintendo,Action
+600,Paraguay,Electronic Arts,Action
+275,Palestine (West Bank and Gaza),Electronic Arts,Action
+258,French Polynesia,Electronic Arts,Action
+634,Qatar,Electronic Arts,Action
+642,Romania,Nintendo,Action
+643,Russian Federation,Electronic Arts,Action
+646,Rwanda,Electronic Arts,Action
+682,Saudi Arabia,Electronic Arts,Action
+729,Sudan,Electronic Arts,Action
+686,Senegal,Electronic Arts,Action
+702,Singapore,Electronic Arts,Action
+239,South Georgia and the Islands,Electronic Arts,Action
+654,St. Helena,Electronic Arts,Action
+90,Solomon Islands,Electronic Arts,Action
+694,Sierra Leone,Electronic Arts,Action
+222,El Salvador,Nintendo,Action
+674,San Marino,Electronic Arts,Action
+706,Somalia,Electronic Arts,Action
+666,St. Pierre and Miquelon,Electronic Arts,Action
+688,Serbia,Electronic Arts,Action
+728,South Sudan,Electronic Arts,Action
+678,São Tomé and Principe,Electronic Arts,Action
+740,Suriname,Electronic Arts,Action
+703,Slovak Republic,Electronic Arts,Action
+705,Slovenia,Nintendo,Action
+752,Sweden,Nintendo,Action
+748,Swaziland,Electronic Arts,Action
+534,St. Maarten (Dutch part),Electronic Arts,Action
+690,Seychelles,Electronic Arts,Action
+760,Syrian Arab Republic,Electronic Arts,Action
+796,Turks and Caicos Islands,Electronic Arts,Action
+148,Chad,Electronic Arts,Action
+768,Togo,Electronic Arts,Action
+764,Thailand,Electronic Arts,Action
+762,Tajikistan,Electronic Arts,Action
+795,Turkmenistan,Electronic Arts,Action
+626,Timor-Leste,Electronic Arts,Action
+776,Tonga,Electronic Arts,Action
+780,Trinidad and Tobago,Electronic Arts,Action
+788,Tunisia,Electronic Arts,Action
+792,Turkey,Electronic Arts,Action
+158,Taiwan,Electronic Arts,Action
+834,Tanzania,Electronic Arts,Action
+800,Uganda,Electronic Arts,Action
+804,Ukraine,Electronic Arts,Action
+858,Uruguay,Electronic Arts,Action
+840,United States of America,Nintendo,Action
+860,Uzbekistan,Electronic Arts,Action
+336,Vatican (Holy Sea),Electronic Arts,Action
+670,St. Vincent and the Grenadines,Electronic Arts,Action
+862,"Venezuela, RB",Electronic Arts,Action
+92,British Virgin Islands,Electronic Arts,Action
+850,Virgin Islands (U.S.),Electronic Arts,Action
+704,Vietnam,Electronic Arts,Action
+548,Vanuatu,Electronic Arts,Action
+876,Wallis and Futuna,Electronic Arts,Action
+882,Samoa,Electronic Arts,Action
+887,"Yemen, Rep.",Electronic Arts,Action
+710,South Africa,Electronic Arts,Action
+894,Zambia,Electronic Arts,Action
+716,Zimbabwe,Electronic Arts,Action

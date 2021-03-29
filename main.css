@@ -9,4 +9,8 @@
     text-align: center;
 }
 
+.country:hover{
+    background-color: #66a0e2;
+}
+
 /* Include any custom CSS styling here! */

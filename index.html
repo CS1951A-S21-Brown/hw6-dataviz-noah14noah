@@ -7,6 +7,12 @@
         <link rel="stylesheet" href="main.css"/>
         <!--Feel free to add more CSS files as needed-->
         <script type="text/javascript" src="https://d3js.org/d3.v5.min.js"></script>
+        <script src="https://unpkg.com/topojson@3"></script>
+        <!-- <script>
+
+        var topology = topojson.topology({foo: geojson});
+
+        </script> -->
     </head>
 <body>
     <div class="header">
@@ -17,12 +23,82 @@
         <div class="col-lg-6">
             <div id="graph1"></div>
             <div id="graph2"></div><br/>
+                <input type="text" id="attrInput" class="form-control" placeholder="Genre" aria-label="Genre"
+                       aria-describedby="basic-addon2">
+                <div class="input-group-append">
+                    <button style="border-top-left-radius: 0; border-bottom-left-radius: 0;"
+                            class="btn btn-primary" type="button" onclick="setAttr()">
+                        Submit
+                    </button>
+                </div>
         </div>
         <div class="col-lg-6">
             <div id="graph3"></div>
         </div>
     </div>
     <!--Feel free to add more JavaScript files as needed-->
-    <script type="text/javascript" src="main.js"></script>
+    <script type="text/javascript" src="graph1.js"></script>
+    <script type="text/javascript" src="graph2.js"></script>
+    <script type="text/javascript" src="graph3.js"></script>
 </body>
 </html>
+
+
+
+<!--
+1. My first graph, the bar graph, quite simply shows the global sales for the
+top 10 video games all time. My second graph, the map, shows by country which
+genre was the most popular (through a bit of preprocessing of given csv file).
+As you can see I have a tooltip that shares the country and top genre based on
+preprocessed data after you hover over the country on interest.
+Based on country codes, I identified which countries were associated with each
+region, and then returned the most popular genre based on my summation of the
+regional sales. Finally my third draft, the vertical bar-chart, shows for a
+given genre total global sales by publisher for a given genre. This makes it
+easy to see who the was the most popular publisher as it is the one with the
+largest bar. In addition, you can enter your genre of choice via the button
+feature in the bottom corner.
+
+2. D3 allowed for interactivity (ie. Tooltip and button features) which not
+only made my graphs more engaging, but also allowed me to communicate more
+information without overloading the viewer. In addition it allowed me greater
+flexibility in formatting my dashboard as I could utilize the inner workings of
+html. Finally, the diverse variety of visualizations compared to what I am used
+to preparing for reports allowed me to pick visualizations that are specific to
+the data I am trying to convey. As an extra point, D3 allowed me to work with my
+data directly, rather than having to read it into a data-frame. The ease granted
+by this continuity was definitely noticed.
+
+3. Many times, D3 seemed a little too high maintenance to work with. What I am
+trying to say is I am familiar with other visualization libraries (pyplot) that
+do a lot of the work “underneath the hood” for you. In addition, it is a little
+complicated, especially when the task at hand is small or not in-depth. Finally,
+as I am a native python-prgrammer, and I will admit that I would have picked
+other libraries that are python-based and that I have more experience with;
+D3 has a bit of learning curve.
+
+4. Based on Doug Schepers Medium post “Why Accessibility Is at the Heart of
+Data Visualization”, I realize that my dashboard is quite accessible to
+normal-seeing viewers, but quite inaccessible to those who are blind or
+color-blind. Although there is some contrast behind the white contrast
+and the color of my graphs, I realize that even those who have bad vision close
+up might have trouble reading some of the fine print (especially in the my
+second bar-plot which may show up to 200+ publishers). Drawing from Scheper’s
+suggestions, further steps that I could take to accommodate all viewers could
+include: 1) A zoom feature for those who have bad sight. This would allow
+viewers to zoom in an area of interest, in the map or the bar-plot for example;
+2) a raw data add-on to enable viewers to use their own third-party app or
+accommodating visualization tool; 3) Include a sonification tool to communicate
+my data to blind users; and 4) Always show my datapionts on my second bar-plot,
+as it is often impossible to hover over bars when using assistive technologies.
+While this list is admittedly non-exhaustive, these seem like manageable steps
+that I can take as I continue learning how to visual data.
+
+5. Before even starting this assignment, I could have thought about which data
+visualization library to use for this project. As D3 was chosen for me, it’s
+natural leaning towards computer-mediate visual representations instantly made
+the goal of catering to color-blind individuals much more difficult.
+Next, during the design phase, I could have choose to not use tooltips
+and instead always show my data, paring down my data in a more summarized
+format. Time, effort,  and ignorance were all factors that limited me from
+implementing these steps. -->

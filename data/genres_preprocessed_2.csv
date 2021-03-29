@@ -1,0 +1,237 @@
+genres_preprocessed
+country_id,Name,Genre
+533,Aruba,Action
+4,Afghanistan,Action
+24,Angola,Action
+660,Anguilla,Action
+248,Aland,Action
+8,Albania,Action
+20,Andorra,Action
+784,United Arab Emirates,Action
+32,Argentina,Action
+51,Armenia,Action
+16,American Samoa,Action
+10,Antarctica,Action
+260,French Southern and Antarctic Lands,Action
+28,Antigua and Barbuda,Action
+36,Australia,Action
+40,Austria,Action
+31,Azerbaijan,Action
+108,Burundi,Action
+56,Belgium,Action
+204,Benin,Action
+854,Burkina Faso,Action
+50,Bangladesh,Action
+100,Bulgaria,Action
+48,Bahrain,Action
+44,"Bahamas, The",Action
+70,Bosnia and Herzegovina,Action
+652,St-Barthélemy,Action
+112,Belarus,Action
+84,Belize,Action
+60,Bermuda,Action
+68,Bolivia,Action
+76,Brazil,Action
+52,Barbados,Action
+96,Brunei,Action
+64,Bhutan,Action
+72,Botswana,Action
+140,Central African Republic,Action
+124,Canada,Action
+756,Switzerland,Action
+152,Chile,Action
+156,China,Action
+384,Côte d'Ivoire,Action
+120,Cameroon,Action
+180,"Congo, Dem. Rep.",Action
+178,"Congo, Rep.",Action
+184,Cook Islands,Action
+170,Colombia,Action
+174,Comoros,Action
+132,Cape Verde,Action
+188,Costa Rica,Action
+192,Cuba,Action
+531,Curaçao,Action
+136,Cayman Islands,Action
+196,Cyprus,Action
+203,Czech Republic,Action
+276,Germany,Action
+262,Djibouti,Action
+212,Dominica,Action
+208,Denmark,Action
+214,Dominican Republic,Action
+12,Algeria,Action
+218,Ecuador,Action
+818,"Egypt, Arab Rep.",Action
+232,Eritrea,Action
+732,Western Sahara,Action
+724,Spain,Action
+233,Estonia,Action
+231,Ethiopia,Action
+246,Finland,Action
+242,Fiji,Action
+238,Falkland Islands,Action
+250,France,Action
+234,Faeroe Islands,Action
+583,"Micronesia, Federated States of",Action
+266,Gabon,Action
+826,United Kingdom,Action
+268,Georgia,Action
+831,Guernsey,Action
+288,Ghana,Action
+324,Guinea,Action
+270,"Gambia, The",Action
+624,Guinea-Bissau,Action
+226,Equatorial Guinea,Action
+300,Greece,Action
+308,Grenada,Action
+304,Greenland,Action
+320,Guatemala,Action
+316,Guam,Action
+328,Guyana,Action
+344,"Hong Kong SAR, China",Action
+334,Heard Island and McDonald Islands,Action
+340,Honduras,Action
+191,Croatia,Action
+332,Haiti,Action
+348,Hungary,Action
+360,Indonesia,Action
+833,Isle of Man,Action
+356,India,Action
+86,British Indian Ocean Territory,Action
+372,Ireland,Action
+364,"Iran, Islamic Rep.",Action
+368,Iraq,Action
+352,Iceland,Action
+376,Israel,Action
+380,Italy,Action
+388,Jamaica,Action
+832,Jersey,Action
+400,Jordan,Action
+392,Japan,Role-Playing
+398,Kazakhstan,Action
+404,Kenya,Action
+417,Kyrgyz Republic,Action
+116,Cambodia,Action
+296,Kiribati,Action
+659,St. Kitts and Nevis,Action
+410,"Korea, Rep.",Action
+414,Kuwait,Action
+418,Lao PDR,Action
+422,Lebanon,Action
+430,Liberia,Action
+434,Libya,Action
+662,St. Lucia,Action
+438,Liechtenstein,Action
+144,Sri Lanka,Action
+426,Lesotho,Action
+440,Lithuania,Action
+442,Luxembourg,Action
+428,Latvia,Action
+446,"Macao SAR, China",Action
+663,St. Martin (French part),Action
+504,Morocco,Action
+492,Monaco,Action
+498,Moldova,Action
+450,Madagascar,Action
+462,Maldives,Action
+484,Mexico,Action
+584,Marshall Islands,Action
+807,"Macedonia, FYR",Action
+466,Mali,Action
+470,Malta,Action
+104,Myanmar,Action
+499,Montenegro,Action
+496,Mongolia,Action
+580,Northern Mariana Islands,Action
+508,Mozambique,Action
+478,Mauritania,Action
+500,Montserrat,Action
+480,Mauritius,Action
+454,Malawi,Action
+458,Malaysia,Action
+516,Namibia,Action
+540,New Caledonia,Action
+562,Niger,Action
+574,Norfolk Island,Action
+566,Nigeria,Action
+558,Nicaragua,Action
+570,Niue,Action
+528,Netherlands,Action
+578,Norway,Action
+524,Nepal,Action
+520,Nauru,Action
+554,New Zealand,Action
+512,Oman,Action
+586,Pakistan,Action
+591,Panama,Action
+612,Pitcairn Islands,Action
+604,Peru,Action
+608,Philippines,Action
+585,Palau,Action
+598,Papua New Guinea,Action
+616,Poland,Action
+630,Puerto Rico,Action
+408,"Korea, Dem. Rep.",Action
+620,Portugal,Action
+600,Paraguay,Action
+275,Palestine (West Bank and Gaza),Action
+258,French Polynesia,Action
+634,Qatar,Action
+642,Romania,Action
+643,Russian Federation,Action
+646,Rwanda,Action
+682,Saudi Arabia,Action
+729,Sudan,Action
+686,Senegal,Action
+702,Singapore,Action
+239,South Georgia and the Islands,Action
+654,St. Helena,Action
+90,Solomon Islands,Action
+694,Sierra Leone,Action
+222,El Salvador,Action
+674,San Marino,Action
+706,Somalia,Action
+666,St. Pierre and Miquelon,Action
+688,Serbia,Action
+728,South Sudan,Action
+678,São Tomé and Principe,Action
+740,Suriname,Action
+703,Slovak Republic,Action
+705,Slovenia,Action
+752,Sweden,Action
+748,Swaziland,Action
+534,St. Maarten (Dutch part),Action
+690,Seychelles,Action
+760,Syrian Arab Republic,Action
+796,Turks and Caicos Islands,Action
+148,Chad,Action
+768,Togo,Action
+764,Thailand,Action
+762,Tajikistan,Action
+795,Turkmenistan,Action
+626,Timor-Leste,Action
+776,Tonga,Action
+780,Trinidad and Tobago,Action
+788,Tunisia,Action
+792,Turkey,Action
+158,Taiwan,Action
+834,Tanzania,Action
+800,Uganda,Action
+804,Ukraine,Action
+858,Uruguay,Action
+840,United States of America,Action
+860,Uzbekistan,Action
+336,Vatican (Holy Sea),Action
+670,St. Vincent and the Grenadines,Action
+862,"Venezuela, RB",Action
+92,British Virgin Islands,Action
+850,Virgin Islands (U.S.),Action
+704,Vietnam,Action
+548,Vanuatu,Action
+876,Wallis and Futuna,Action
+882,Samoa,Action
+887,"Yemen, Rep.",Action
+710,South Africa,Action
+894,Zambia,Action
+716,Zimbabwe,Action
