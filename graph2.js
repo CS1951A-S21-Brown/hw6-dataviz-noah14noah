@@ -15,7 +15,7 @@ var g = map.append("g");
 
 // create country names, publisher, id object
 const names = [];
-d3.csv("hw6-dataviz-noah14noah/data/genres_preprocessed.csv").then(function(data) {
+d3.csv("../data/genres_preprocessed.csv").then(function(data) {
     data.forEach(function(d) {
         let element = {id: d.country_id, name: d.Name, genre: d.Genre};
         names.push(element);
@@ -28,7 +28,7 @@ let title_2 = map.append("text")
     .text("Top Genre by Region");
 
 //loading map data
-d3.json("hw6-dataviz-noah14noah/data/world-110m2.json").then(function(topology) {
+d3.json("../data/world-110m2.json").then(function(topology) {
     g.selectAll("path")
         .data(topojson.feature(topology,topology.objects.countries).features)
         .enter().append("path")
