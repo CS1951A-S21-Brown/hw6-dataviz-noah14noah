@@ -2,7 +2,7 @@
 let graph_2_width = (MAX_WIDTH / 2) - 10, graph_2_height = 450;
 let map = d3.select("#graph3")
     .append("svg")
-    .attr("width", graph_2_width)
+    .attr("width", graph_2_width - 100 )
     .attr("height", graph_2_height)
     .attr("transform",`translate(${10},20)`);
 
