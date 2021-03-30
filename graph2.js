@@ -28,7 +28,7 @@ let title_2 = map.append("text")
     .text("Top Genre by Region");
 
 //loading map data
-d3.json("../data/world-110m2.json").then(function(topology) {
+d3.json("hw6-dataviz-noah14noah/data/world-110m2.json").then(function(topology) {
     g.selectAll("path")
         .data(topojson.feature(topology,topology.objects.countries).features)
         .enter().append("path")
