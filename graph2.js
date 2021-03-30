@@ -15,7 +15,7 @@ var g = map.append("g");
 
 // create country names, publisher, id object
 const names = [];
-d3.csv("../data/genres_preprocessed.csv").then(function(data) {
+d3.csv("hw6-dataviz-noah14noah/data/genres_preprocessed.csv").then(function(data) {
     data.forEach(function(d) {
         let element = {id: d.country_id, name: d.Name, genre: d.Genre};
         names.push(element);
